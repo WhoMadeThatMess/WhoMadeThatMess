@@ -8,7 +8,7 @@ Tools & Tech
   <li>GSAP for Animation</li>
   <li>VS Code</li>
 </ul>
----------------------------------------
+
 About Me: 
 <ul>
   <li>I rely on energy drinks...like alot (I drink them in moderation, don't worry)</li>
