@@ -1,4 +1,4 @@
-Hi there 👋
+Hi there 👋<br>
 I'm Angel Garcia, a front-end developer based in the United States 
 I mainly use HTML, CSS, and JavaScript as well as front-end frameworks such as React
 ---------------------------------------
