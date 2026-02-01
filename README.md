@@ -1,16 +1,17 @@
-## Hi there 👋
-
-<!--
-**WhoMadeThatMess/WhoMadeThatMess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there 👋
+I'm Angel Garcia, a front-end developer based in the United States 
+I mainly use HTML, CSS, and JavaScript as well as front-end frameworks such as React
+---------------------------------------
+Tools & Tech 
+<ul>
+  <li>HTML, CSS, JavaScript, React, Python, Java</li>
+  <li>GSAP for Animation</li>
+  <li>VS Code</li>
+</ul>
+---------------------------------------
+About Me: 
+<ul>
+  <li>I rely on energy drinks...like alot (I drink them in moderation, don't worry)</li>
+  <li>Started writing code with block code</li>
+  <li>My favorite movies are the Wolf Of Wall Street and Sinners</li>
+</ul>
